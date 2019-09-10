@@ -1,1 +1,1 @@
-# Titanic_Logistic_Regresion
+# Logistic_Regresion
